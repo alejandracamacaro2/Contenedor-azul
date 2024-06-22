@@ -1,0 +1,10 @@
+.cabros{
+    display: flex;
+    justify-content: right;
+    height: 35vh; 
+    margin-top: -180px;
+    position: relative;
+    margin-right: 40px;
+
+
+}
